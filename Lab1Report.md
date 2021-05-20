@@ -10,6 +10,8 @@
 
 为了使我们的软件应用程序中避免“大泥浆球”反模式。需要找到软件项目之间的类和模块间的依赖关系，能够更好的分析项目的关系。
 
+[Read the docs]: https://huilanlab1.readthedocs.io/en/latest/Lab1Report.html
+
 ## 方法和材料
 
 我们使用`Snakefood`对`EnglishPal`进行模块依赖关系的分析，并使用`Graphviz Online`渲染出图像。由于未找到可用的对`python`代码进行类依赖关系分析的工具，我们选择人工分析`EnglishPal`并手写`mermaid`代码进行依赖图的绘制。
@@ -200,7 +202,7 @@ main.login --> main.get_expiry_date
 
 ## 讨论
 
-
+在使用`snakefood`进行模块的依赖关系分析时，由于电脑无法成功下载`snakefood`，于是使用老师所部属的服务器进行操作。我们使用`putty`进行`ssh`连接，但是不知为何第一天登录服务器的时候无法成功，所幸第二天成功了。之后便顺利的按照老师上课的演示完成模块间依赖关系的分析。
 
 ## 参考
 
