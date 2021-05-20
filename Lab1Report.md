@@ -10,8 +10,6 @@
 
 为了使我们的软件应用程序中避免“大泥浆球”反模式。需要找到软件项目之间的类和模块间的依赖关系，能够更好的分析项目的关系。
 
-[Read the docs](https://huilanlab1.readthedocs.io/en/latest/Lab1Report.html)
-
 ## 方法和材料
 
 我们使用`Snakefood`对`EnglishPal`进行模块依赖关系的分析，并使用`Graphviz Online`渲染出图像。由于未找到可用的对`python`代码进行类依赖关系分析的工具，我们选择人工分析`EnglishPal`并手写`mermaid`代码进行依赖图的绘制。
