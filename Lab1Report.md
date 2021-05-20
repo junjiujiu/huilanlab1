@@ -10,7 +10,7 @@
 
 为了使我们的软件应用程序中避免“大泥浆球”反模式。需要找到软件项目之间的类和模块间的依赖关系，能够更好的分析项目的关系。
 
-[Read the docs]: https://huilanlab1.readthedocs.io/en/latest/Lab1Report.html
+[Read the docs](https://huilanlab1.readthedocs.io/en/latest/Lab1Report.html)
 
 ## 方法和材料
 
