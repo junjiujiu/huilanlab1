@@ -11,4 +11,5 @@ Welcome to 实验一 实验报告's documentation!
    :caption: Contents:
 
    Lab1Report.md
+   lab3-report.md
 
